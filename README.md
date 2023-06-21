@@ -1,7 +1,7 @@
 
 # Tik Tok Clone - Projeto EBAC
 
-Links úteis:
+Links úteis: https://tiktok---jornada21.web.app/
 
 (Adicione aqui o link do seu tik tok)
 
